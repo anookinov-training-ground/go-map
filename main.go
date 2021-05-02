@@ -12,7 +12,7 @@ func main() {
 	// colors[10] = "#FFFFFF"
 
 	// delete(colors, 10)
-		// delete(colors, "white")
+	// delete(colors, "white")
 
 	colors := map[string]string{
 		"red": "#FF0000",
